@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report sr="January, 2017" type="Basic">
+  
+   <food ds="Branded Food Products" name="BLUE BUNNY, PEANUT BUTTER PANIC, ICE CREAM, POWERFUL PEANUT BUTTER ICE CREAM CHARGED WITH PEANUT BUTTER AND FUDGE SAUCES AND OVERLOADED WITH PEANUT BUTTER CUPS, UPC: 070640034086" ndbno="45011419" ru="g">
+    
+      <ing desc="MILK, CREAM, SKIM MILK, PEANUT BUTTER CUPS (SUGAR, GROUND PEANUTS, COCOA BUTTER, PALM KERNEL OIL, WHOLE MILK POWDER, CHOCOLATE LIQUOR, COCONUT OIL, SALT, MONO &amp; DIGLYCERIDES), CHOCOLATE FUDGE CRACKLE {POWDERED SUGAR (SUGAR, CORNSTARCH), PEANUT OIL, COCOA PROCESSED WITH ALKALI, DEXTROSE, NONFAT DRY MILK, COCOA, SALT, SOY LECITHIN}, PEANUT BUTTER VARIEGATE (PEANUTS, CORN OIL, ALT, MONO &amp; DIGLYCERIDES), CORN SYRUP, CONTAINS 1% OR LESS OF TE FOLLOWING: CAROB BEAN GUM, GUAR GUM CARRAGEENAN, MONO &amp; DIGLYCERIDES, CELLULOSE GEL, CELLULOSE GUM." upd="02/04/2015"/>
+    
+      <nutrients>
+      
+         <nutrient group="Proximates" name="Energy" nutrient_id="208" unit="kcal" value="282">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="200"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Proximates" name="Protein" nutrient_id="203" unit="g" value="5.63">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="4.00"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Proximates" name="Total lipid (fat)" nutrient_id="204" unit="g" value="16.90">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="12.00"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Proximates" name="Carbohydrate, by difference" nutrient_id="205" unit="g" value="26.76">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="19.00"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Proximates" name="Fiber, total dietary" nutrient_id="291" unit="g" value="1.4">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="1.0"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Proximates" name="Sugars, total" nutrient_id="269" unit="g" value="22.54">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="16.00"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Minerals" name="Calcium, Ca" nutrient_id="301" unit="mg" value="141">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="100"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Minerals" name="Iron, Fe" nutrient_id="303" unit="mg" value="0.51">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="0.36"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Minerals" name="Potassium, K" nutrient_id="306" unit="mg" value="239">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="170"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Minerals" name="Sodium, Na" nutrient_id="307" unit="mg" value="141">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="100"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Vitamins" name="Vitamin C, total ascorbic acid" nutrient_id="401" unit="mg" value="0.0">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="0.0"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Vitamins" name="Vitamin A, IU" nutrient_id="318" unit="IU" value="282">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="200"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Lipids" name="Fatty acids, total saturated" nutrient_id="606" unit="g" value="8.45">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="6.00"/>
+        
+            </measures>
+      
+         </nutrient>
+      
+         <nutrient group="Lipids" name="Fatty acids, total trans" nutrient_id="605" unit="g" value="0.00">
+        
+            <measures>
+          
+               <measure eqv="71.0" eunit="g" label="cup" qty="0.5" value="0.00"/>
+        
+            </measures>
+      
+         </nutrient>
+    
+      </nutrients>
+  
+   </food>
+  
+   <footnotes/>
+
+</report>

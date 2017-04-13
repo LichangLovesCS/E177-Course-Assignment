@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report sr="January, 2017" type="Basic">
+   <food ds="Branded Food Products" name="BREYERS, BLASTS!, FROZEN DAIRY DESSERT, REESE'S PEANUT BUTTER CUPS CHOCOLATE FLAVOR WITH REESE'S PEANUT BUTTER SWIRL AND REESE'S PEANUT BUTTER CUP PIECES, UPC: 077567205186" ndbno="45093459" ru="g">
+      <ing desc="MILK, SUGAR, CORN SYRUP, REESE'S PEANUT BUTTER SWIRL [PEANUTS, SUGAR, PEANUT OIL, DEXTROSE, SALT, TBHQ (PRESERVATIVE)], REESE'S PEANUT BUTTER CUPS {MILK CHOCOLATE [SUGAR, COCOA BUTTER, CHOCOLATE, NONFAT MILK, MILK FAT, CORN SYRUP SOLIDS, SOY LECITHIN, PGPR (EMULSIFIER)], PEANUTS, SUGAR, DEXTROSE, SALT, TBHQ (PRESERVATIVE)}, CREAM, DUTCHED COCOA (PROCESSED WITH ALKALI), LESS THAN 2% OF: WHEY, MONO AND DIGLYCERIDES, VEGETABLE GUMS (GUAR, CAROB BEAN, TARA), CARRAGEENAN, VITAMIN A PALMITATE, NATURAL FLAVORS." upd="04/05/2016"/>
+      <nutrients>
+         <nutrient group="Proximates" name="Energy" nutrient_id="208" unit="kcal" value="237">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="140"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Proximates" name="Protein" nutrient_id="203" unit="g" value="5.08">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="3.00"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Proximates" name="Total lipid (fat)" nutrient_id="204" unit="g" value="10.17">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="6.00"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Proximates" name="Carbohydrate, by difference" nutrient_id="205" unit="g" value="32.20">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="19.00"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Proximates" name="Fiber, total dietary" nutrient_id="291" unit="g" value="1.7">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="1.0"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Proximates" name="Sugars, total" nutrient_id="269" unit="g" value="23.73">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="14.00"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Minerals" name="Calcium, Ca" nutrient_id="301" unit="mg" value="102">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="60"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Minerals" name="Iron, Fe" nutrient_id="303" unit="mg" value="0.61">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="0.36"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Minerals" name="Sodium, Na" nutrient_id="307" unit="mg" value="136">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="80"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Vitamins" name="Vitamin C, total ascorbic acid" nutrient_id="401" unit="mg" value="0.0">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="0.0"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Vitamins" name="Vitamin A, IU" nutrient_id="318" unit="IU" value="508">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="300"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Lipids" name="Fatty acids, total saturated" nutrient_id="606" unit="g" value="4.24">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="2.50"/>
+            </measures>
+         </nutrient>
+         <nutrient group="Lipids" name="Fatty acids, total trans" nutrient_id="605" unit="g" value="0.00">
+            <measures>
+               <measure eqv="59.0" eunit="g" label="cup" qty="0.5" value="0.00"/>
+            </measures>
+         </nutrient>
+      </nutrients>
+   </food>
+   <footnotes/>
+</report>
